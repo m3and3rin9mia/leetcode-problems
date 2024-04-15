@@ -1,2 +1,2 @@
 # leetcode-problems
-my solutions - archive
+my amateur solutions to leetcode problems.
